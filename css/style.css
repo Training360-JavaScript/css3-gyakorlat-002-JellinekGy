@@ -5,7 +5,7 @@ FIGYELEM: a __selector__ szó helyére kell beírni a jó szelektorokat!
 @import url("https://fonts.googleapis.com/css?family=Poppins");
 
 /* 1: a html és a body elem */
-html, body 
+html body 
 {
   font-family: 'Poppins', sans-serif;
 }
